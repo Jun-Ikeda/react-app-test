@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>I'm wondering why I have to edit App.js instead of index.js.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
